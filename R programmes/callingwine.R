@@ -1,0 +1,1 @@
+WineUnclean <- read.csv("C:\\Users\\Admin\\R programmes/wine.csv", stringsAsFactors = FALSE)
